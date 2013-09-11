@@ -1,0 +1,16 @@
+{
+  "name": "angular-resource",
+  "description": "AngularJS Resource wrapped as a component.",
+  "homepage": "http://angularjs.org",
+  "repo": "https://raw.github.com/norman784/angular-resource-component",
+  "version": "1.0.7",
+  "keywords": [
+    "angular-resource",
+    "angularjs-resource",
+    "component"
+  ],
+  "scripts": [
+    "angular-resource.js"
+  ],
+  "license": "MIT"
+}
