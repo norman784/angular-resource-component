@@ -4,6 +4,9 @@
   "homepage": "http://angularjs.org",
   "repo": "https://raw.github.com/norman784/angular-resource-component",
   "version": "1.0.7",
+  "dependencies": {
+    "alexmingoia/angular-component": "*"
+  },
   "keywords": [
     "angular-resource",
     "angularjs-resource",
